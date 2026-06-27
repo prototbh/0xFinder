@@ -17,7 +17,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prototbh/Memory-Magic-cheat-engine-in-python-
+   git clone https://github.com/prototbh/0xFinder
    ```
 2. Install dependencies:
    ```bash
