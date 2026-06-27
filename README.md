@@ -1,6 +1,6 @@
-# Memory Magic
+# 0x Finder
 
-Memory Magic is a Python-based cheat engine clone designed to offer a fast, user-friendly, and easy-to-use experience for memory manipulation enthusiasts. While it is a simplified version compared to the original Cheat Engine, it stands out for its speed, simplicity, and beginner-friendly approach.
+0x Finder is a Python-based cheat engine clone designed to offer a fast, user-friendly, and easy-to-use experience for memory manipulation enthusiasts. While it is a simplified version compared to the original Cheat Engine, it stands out for its speed, simplicity, and beginner-friendly approach.
 
 ## Key Features
 
@@ -11,7 +11,7 @@ Memory Magic is a Python-based cheat engine clone designed to offer a fast, user
 
 ## Limitations
 
-Memory Magic is a simplified clone of Cheat Engine and therefore lacks some advanced features. However, it’s a great starting point for users looking for a straightforward and effective memory manipulation tool.
+0x Finder is a simplified clone of Cheat Engine and therefore lacks some advanced features. However, it’s a great starting point for users looking for a straightforward and effective memory manipulation tool.
 
 ## Getting Started
 
