@@ -4,8 +4,8 @@
 
 ## Key Features
 
-- **Fast**: Memory Magic is optimized for speed, making it a powerful choice for quick memory scans and edits.
-- **User-Friendly**: Designed with simplicity in mind, Memory Magic is accessible to both beginners and experienced users.
+- **Fast**: 0x Finder is optimized for speed, making it a powerful choice for quick memory scans and edits.
+- **User-Friendly**: Designed with simplicity in mind, 0x Finder is accessible to both beginners and experienced users.
 - **Lightweight**: While it doesn't have all the advanced features of Cheat Engine, it covers the essential functionality for memory manipulation.
 - **Inspired by VycDev**: This project was heavily inspired by the work of VycDev. For a deeper dive into the concepts behind this tool, check out [VycDev's video](https://www.youtube.com/watch?v=x5ClRQIKoXk).
 
@@ -23,7 +23,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-3. Run Memory Magic:
+3. Run 0x Finder:
    ```bash
    python main.py
    ```
@@ -34,7 +34,7 @@ A huge shoutout to [VycDev](https://www.youtube.com/@VycDev) for inspiring this 
 
 ## Contribute
 
-Contributions are welcome! Feel free to fork the project and submit pull requests to improve Memory Magic.
+Contributions are welcome! Feel free to fork the project and submit pull requests to improve 0x Finder.
 
 ---
 
